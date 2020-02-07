@@ -13,9 +13,16 @@ When the state stored by the client, it generates some data used for further req
 ### Technical terms
 
 REST: Representational State Transfer
-sticky-mode: 
 HA: High Availability、高可用性
 FTP: File Transfer Protocol
+
+---
+
+sticky-mode: 
+
+To summarize, In case of Sticky Sessions, all your requests will be directed to the same physical web server while in case of a non-sticky loadbalancer may choose any webserver to serve your requests.
+
+https://stackoverflow.com/questions/10494431/sticky-and-non-sticky-sessions
 
 ### Important sentences
 
