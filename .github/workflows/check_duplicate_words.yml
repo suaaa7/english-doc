@@ -4,6 +4,6 @@ on: push
 jobs:
   build:
     name: Check
-    run-on: ubuntu-18.04
+    runs-on: ubuntu-18.04
     steps:
       - run: echo "check"
