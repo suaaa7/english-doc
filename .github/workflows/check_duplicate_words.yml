@@ -6,4 +6,4 @@ jobs:
     name: Check
     runs-on: ubuntu-18.04
     steps:
-      - run: echo "check"
+      - run: find . -name '*.md' -type f -print0 | xargs -0 -I {} sh -c 'cat "{}"' | grep '\: ' | awk '{sub(":.*", "");print $0;}' | sort | uniq -d
