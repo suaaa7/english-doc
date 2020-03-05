@@ -41,16 +41,13 @@ perceive: 知覚する、感じ取る
 align: 整列させる、
 priority: 優先順位
 attribute: に属する、属性
-comply: 従う、受け入れる
 hierarchical: 階層的
 sibling: 兄弟姉妹
-relationship: 関係
 primarily: 主に
 imply: 含む、伴う、暗に意味する
 set theory: 集合論
 consist of: から成る
 convey: 伝える
-incorporate: 組み込む
 disparate: 異なる、共通点のない
 numerical: 数値の
 organize: 組織する、統制する
