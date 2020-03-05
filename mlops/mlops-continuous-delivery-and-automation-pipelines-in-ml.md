@@ -87,11 +87,9 @@ transition: 遷移、移行
 artifact: 人工物
 handoff: 手渡すこと
 degradation: 低下、劣化
-address: 対処する
 in practice: 実際には
 staleness: 古さ
 act as: として機能する
-harness: 活用する、利用する
 readiness: 覚悟、準備ができていること
 aspect: 側面
 ideally: 理想的には
@@ -102,7 +100,6 @@ ensure: 確実にする、保証する
 behavior: ふるまい、行動、習性
 downstream: 下流
 anomaly: 例外、異例
-comply: 応じる、従う
 consistent: 一貫している、矛盾のない
 variance: 不一致、分散
 compatibility: 適合性、互換性
@@ -119,7 +116,6 @@ reliable: 信頼できる、確かな
 iteratively: 反復的に、繰り返し
 converge: 収束する
 in turn: 順に、同様に
-verify: 確認する、実証する
 cope with: 対処する
 
 ---

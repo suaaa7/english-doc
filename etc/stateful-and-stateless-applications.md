@@ -56,7 +56,6 @@ crucial: 重要な
 monolith: 一枚岩
 omnipresent: 遍在する、どこにもいる、ある
 consideration: 考慮
-verify: 確認する、検証する
 dumb: 物の言えない、無口な
 distinct: 明確な、他と全く別な
 self-contained: 自己完結型
@@ -64,7 +63,6 @@ matter: 問題、物事、問題となる、重要である
 merely: 単に、わずかに
 fundamental: 基本的な、根本的な
 issue: 問題、発行する
-relationship: 関係、繋がり
 mainstream: 主流
 present: 現在の、存在している
 evenly: 均等に
