@@ -3,8 +3,12 @@ on: push
 
 jobs:
   build:
-    name: Check
+    name: Check duplicate words
     runs-on: ubuntu-18.04
     steps:
-      - run: result=$(find . -name '*.md' -type f -print0 | xargs -0 -I {} sh -c 'cat "{}"' | grep ':' | grep -v 'https' | awk '{sub(":.*", "");print $0;}' | sort | uniq -d)
-      - run: if [ ${#result} -eq 0 ]; then echo 'OK'; else echo $result; exit 1; fi
+    - name: Checkout
+      uses: actions/checkout@v1
+    - name: Check duplicate words
+      run: |
+        result=$(find . -name '*.md' -type f -print0 | xargs -0 -I {} sh -c 'cat "{}"' | grep ':' | grep -v 'https' | awk '{sub(":.*", "");print $0;}' | sort | uniq -d)
+        if [ ${#result} -eq 0 ]; then echo 'OK'; else echo $result; exit 1; fi
