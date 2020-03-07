@@ -88,7 +88,6 @@ intensive: 強い、激しい、集中的な
 catalyst: 触媒、促進の働きをするもの
 optimal: 最適な
 molecule: 分子
-phenomenon: 現象、事象
 flaw: きず、割れ目、弱点、欠陥
 unproven: 未証明
 supremacy: 至上、主権、支配権

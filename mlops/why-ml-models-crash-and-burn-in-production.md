@@ -47,7 +47,6 @@ faulty: 欠点のある、誤った
 assumption: 仮定、仮説
 the moment: 途端に
 deteriorate: 悪化させる、悪化する
-phenomenon: 現象、事象
 intuitive: 直観の
 malicious: 悪意のある、意地の悪い
 interact: 相互に作用する、互いに影響し合う
