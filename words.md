@@ -27,3 +27,35 @@
 ### phenomenon
 
 現象、事象
+
+### artifact
+
+人工物、成果物
+
+### downstream
+
+下流
+
+### drawback
+
+欠点、不利益、障害
+
+### inherently
+
+本質的に
+
+### leverage
+
+活用する
+
+### provenance
+
+起源、由来、出どころ
+
+### reproducible
+
+再現できる
+
+### sophisticate
+
+洗練させる

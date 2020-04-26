@@ -145,10 +145,8 @@ be subject to: 対象になる
 fraction: 破片、断片、少量
 comprise: 成る、含む、構成する
 besides: の他にも
-artifact: 人工物、成果物
 accordingly: それに応じて、適宜に
 deterministic: 決定論的な
-leverage: 活用する
 mature: 成熟する、満ちる
 illustrate: 示す、説明する、入れる
 retailer: 小売業者
@@ -159,10 +157,8 @@ friction: 摩擦、衝突、不和
 symptom: 症状、兆候、しるし
 proof-of-concept: 概念実証、実証実験
 stale: 新鮮でない、古臭い、つまらない
-reproducible: 再現できる
 auditable: 審査可能な、監視可能な
 straightforward: 正直な、複雑でない、簡単な
-sophisticate: 洗練させる
 retrieve: 回収する、取り戻す
 encourage: 元気づける、励ます、助長する
 as well as: と同様に、及び
@@ -177,15 +173,12 @@ overload: 過負荷
 fetch: 取ってくる、引き出す
 iterative: 反復の
 formalise: 正式化する、公式化する
-provenance: 起源、由来、出どころ
 encompass: 取り囲む、包囲する、含む
 invocation: 呼び出し、発動、実施
 ingest: 搾取する、取り込む
 language-agnostic: 言語に依存しない
 applicable: 該当する、適用できる
-downstream: 下流
 suffice: 満足させる、十分である
-inherently: 本質的に
 relevant: 適切な、妥当な、関連のある
 holistically: 全体的に
 holdout: 抵抗、忍耐、踏ん張る
@@ -193,7 +186,6 @@ in-depth: 詳細な
 centric: 中心の
 deem: 思う、判断する
 trunk: 幹、胴、主要部
-drawback: 欠点、不利益、障害
 hinder: 妨げる、邪魔する
 pose: 見せかける、持ち出す
 feed: 供給する、与える、養う
