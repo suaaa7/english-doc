@@ -2,6 +2,8 @@
 
 https://martinfowler.com/articles/cd4ml.html
 
+https://www.nogawanogawa.com/entry/cd4ml
+
 ## Summary
 
 *CONTENTS*
