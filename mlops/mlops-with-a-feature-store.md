@@ -74,9 +74,7 @@ transparent: 透明な、明白な
 enrich: 豊富にする、強化する、高める
 decompose: 分解する、腐敗させる
 cadence: リズム、抑揚、歩調
-ingest: 摂取する、取り込む
 idempotent: 冪等である
-provenance: 出どころ、起源、由来
 obtrusive: 押し付けがましい、出すぎた、目立ちすぎる
 well-defined: はっきり定義された、明確な
 inobtrusive: 控えめな
@@ -87,5 +85,4 @@ sink: 沈没する、くぼむ、掃き溜め
 periodically: 定期的に、周期的に
 counterfactual: 事実関係、事実に逆らうこと
 identify: 確認する、識別する、同一視する
-diverge: 分岐する、広がる、離れる
 property: 財産、資産、所有物、特質、特性、性質
