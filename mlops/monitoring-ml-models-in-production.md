@@ -99,7 +99,6 @@ https://christophergs.com/machine%20learning/2020/03/14/how-to-monitor-machine-l
 
 ### Word etc
 
-stale: 新鮮でない、古くさい、疲労した
 compound: 混ぜ合わせる、調合する、いっそうひどくする、複利にする
 cross-disciplinary: 学際的な
 endeavor: 努力する、努力、試み
@@ -109,7 +108,6 @@ realm: 領域、範囲、部門
 entail: 必然的に伴う、必要とする
 amid: の真ん中に、の真っ最中に
 tweak: 微調整
-delve: 探求する、詮索する、調べる
 entanglement: もつれさせること、もつれ、絡み合い
 subtly: 微妙に
 hopefully: うまくいけば、たぶん
@@ -140,7 +138,6 @@ noteworthy: 注目すべき、顕著な
 liberally: 気前よく、寛大に、大量に
 retention: 保有、保持、維持
 if applicable: 該当する場合、妥当な場合
-anomaly: 変則、例外、異常
 discrete: 分離した、別々の、不連続の、離散の
 excel: 勝る、優れる
 whilst: = while
